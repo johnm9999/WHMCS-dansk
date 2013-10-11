@@ -812,7 +812,7 @@ $_LANG['clientareafiles'] = "Vedhæftede filer";
 $_LANG['clientareafilesdate'] = "Dato tilføjet";
 $_LANG['clientareafilesfilename'] = "Filnavn";
 
-$_LANG['pwreset'] = "Lost Password Reset";
+$_LANG['pwreset'] = "Gendan din adgangskode";
 $_LANG['pwresetdesc'] = "If you have forgotten your password, you can reset it here. When you fill in your registered email address (and answer your account security question if set), you will be sent instructions on how to reset your password.";
 $_LANG['pwresetemailrequired'] = "You didn't enter your email address";
 $_LANG['pwresetemailnotfound'] = "No client account was found with the email address you entered";
