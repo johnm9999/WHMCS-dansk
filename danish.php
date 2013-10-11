@@ -825,28 +825,28 @@ $_LANG['pwresetkeyinvalid'] = "Gendannelses linket er ugyldigt. Prøv venligst i
 $_LANG['pwresetkeyexpired'] = "Gendannelses linket er udløbet. Prøv venligst igen.";
 $_LANG['pwresetvalidationsuccess'] = "Gendannelsen af din adgangskode lykkedes";
 
-$_LANG['overagescharges'] = "Overage Charge";
-$_LANG['overagestotaldiskusage'] = "Total Disk Usage";
-$_LANG['overagestotalbwusage'] = "Total Bandwidth Usage";
+$_LANG['overagescharges'] = "Ekstraforbrug";
+$_LANG['overagestotaldiskusage'] = "Total disk forbrug";
+$_LANG['overagestotalbwusage'] = "Total båndbrede forbrug";
 
-$_LANG['affiliatescommissionspending'] = "Commissions Pending Maturation";
-$_LANG['affiliatescommissionsavailable'] = "Available Commissions Balance";
-$_LANG['affiliatessignups'] = "Number of Signups";
-$_LANG['affiliatesconversionrate'] = "Conversion Rate";
+$_LANG['affiliatescommissionspending'] = "Beløb der afventer modning";
+$_LANG['affiliatescommissionsavailable'] = "Tilgængeligt beløb til udbetaling";
+$_LANG['affiliatessignups'] = "Antal tilmeldinger";
+$_LANG['affiliatesconversionrate'] = "Konverteringsfrekvens";
 
-$_LANG['configoptionqtyminmax'] = "%s has a minimum requirement of %s and maximum of %s";
+$_LANG['configoptionqtyminmax'] = "%s kræver minimum ud af %s og maks af %s";
 
-$_LANG['creditcardnostore'] = "Tick this box if you do NOT want us to store your credit card details for recurring billing";
-$_LANG['creditcarddelete'] = "Delete Saved Card Details";
-$_LANG['creditcarddeleteconfirmation'] = "The stored credit card details have now been removed from your account";
-$_LANG['creditcardupdatenotpossible'] = "Credit Card Details cannot be updated at the current time. Please try again later.";
+$_LANG['creditcardnostore'] = "Marker dette felt, hvis du IKKE vil gemme dine kreditkortoplysninger, til brug ved tilbagevendende betalinger";
+$_LANG['creditcarddelete'] = "Slet gemte kreditkort oplysninger";
+$_LANG['creditcarddeleteconfirmation'] = "De gemte kreditkort oplysninger, er blevet slettet.";
+$_LANG['creditcardupdatenotpossible'] = "Kreditkort oplysningerne kunne ikke opdateres på nuværende tidspunkt. Prøv igen senere.";
 
-$_LANG['invoicepaymentsuccessconfirmation'] = "Thank You! Your payment was successful.";
-$_LANG['invoicepaymentfailedconfirmation'] = "Unfortunately your payment attempt was not successful.<br />Please try again or contact support.";
+$_LANG['invoicepaymentsuccessconfirmation'] = "Tak. Din betaling er gennemført";
+$_LANG['invoicepaymentfailedconfirmation'] = "Dit forsøg på at betale kunne ikke gennemføres.<br />Forsøg igen eller kontakt support.";
 
 # Version 4.2
 
-$_LANG['promoappliedbutnodiscount'] = "The promotion code you entered has been applied to your cart but no items qualify for the discount yet - please check the promotion terms";
+$_LANG['promoappliedbutnodiscount'] = "Rabatkoden du indtastede er blevet tilføjet til din kurv, men kan ikke bruges sammen med noget af det du i din kurv.";
 
 $_LANG['upgradeerroroverdueinvoice'] = "You cannot currently upgrade or downgrade this product because an invoice has already been generated for the next renewal.<br /><br />To proceed, please first pay the outstanding invoice and then you will be able to upgrade or downgrade immediately following that and be charged the difference or credited as appropriate.";
 
