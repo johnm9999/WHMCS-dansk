@@ -4,10 +4,10 @@ if (!defined("WHMCS")) die("This file cannot be accessed directly");
 
 # Global
 $_ADMINLANG['global']['hometitle'] = "Admin overblik";
-$_ADMINLANG['global']['searchfilter'] = "Search/Filter";
+$_ADMINLANG['global']['searchfilter'] = "Søg/Filter";
 $_ADMINLANG['global']['search'] = "Søg";
 $_ADMINLANG['global']['recordsfound'] = "Records Found";
-$_ADMINLANG['global']['page'] = "Page";
+$_ADMINLANG['global']['page'] = "Side";
 $_ADMINLANG['global']['of'] = "af";
 $_ADMINLANG['global']['jumppage'] = "Jump to Page";
 $_ADMINLANG['global']['go'] = "Go";
