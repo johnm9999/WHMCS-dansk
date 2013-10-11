@@ -1,4 +1,4 @@
 WHMCS-dansk
 ===========
 
-Hjælp os med at oversætte WHMCS til dansk
+Hjælp med at få oversat WHMCS til dansk
