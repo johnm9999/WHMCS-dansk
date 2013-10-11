@@ -2899,11 +2899,11 @@ $_ADMINLANG['configservers']['defaultsignups'] = "Make this server the active de
 
 # 2FA Security
 $_ADMINLANG['twofa']['title'] = "To-faktor Godkendelse";
-$_ADMINLANG['twofa']['introtext'] = "To-faktor Godkendelse tilføjer et ekstra lag af beskyttelse til logins. Når det er aktiveret &amp; konfigureret til en bruger med administratorrettigheder (hver bruger skal aktiver det selvstændigt), Hver gang de logger ind vil blive bedt om at indtaste både deres brugernavn og password samt en anden faktor, såsom en sikkerhedskode. Vi støtter en bred vifte af To-faktor Godkendelses metoder.";
+$_ADMINLANG['twofa']['introtext'] = "To-faktor godkendelse tilføjer et ekstra lag af beskyttelse til logins. Når det er aktiveret &amp; konfigureret til en bruger med administratorrettigheder (hver bruger skal aktiver det selvstændigt), Hver gang de logger ind vil blive bedt om at indtaste både deres brugernavn og password samt en anden faktor, såsom en sikkerhedskode. Vi støtter en bred vifte af to-faktor godkendelses metoder.";
 $_ADMINLANG['twofa']['enable'] = "Aktiver ".$_ADMINLANG['twofa']['title'];
 $_ADMINLANG['twofa']['disable'] = "Deaktiver ".$_ADMINLANG['twofa']['title'];
-$_ADMINLANG['twofa']['activateintro'] = "To-faktor Godkendelse tilføjer et ekstra lag af beskyttelse til din konto.  Når det er aktiveret, hver gang du logger på WHMCS admin område, skal du indtaste både dit brugernavn og password samt en anden faktor, såsom en sikkerhedskode.";
-$_ADMINLANG['twofa']['disableintro'] = "For at Deaktiver ".$_ADMINLANG['twofa']['title']." skal du bekræfte din adgangskode i feltet nedenfor.";
+$_ADMINLANG['twofa']['activateintro'] = "To-faktor godkendelse tilføjer et ekstra lag af beskyttelse til din konto.  Når det er aktiveret, hver gang du logger på WHMCS admin område, skal du indtaste både dit brugernavn og password samt en anden faktor, såsom en sikkerhedskode.";
+$_ADMINLANG['twofa']['disableintro'] = "For at deaktiver ".$_ADMINLANG['twofa']['title']." skal du bekræfte din adgangskode i feltet nedenfor.";
 $_ADMINLANG['twofa']['choose'] = "Vælg dit ønskede 2nd Factor nedenfor.";
 $_ADMINLANG['twofa']['enforced'] = "Din administrator har håndhævet, at du skal aktivere ".$_ADMINLANG['twofa']['title']." før du kan fortsætte. Denne side vil guide dig gennem processen med at sætte den op.";
 $_ADMINLANG['twofa']['getstarted'] = "Kom i gang";
@@ -2913,6 +2913,6 @@ $_ADMINLANG['twofa']['activationcomplete'] = $_ADMINLANG['twofa']['title']." Ins
 $_ADMINLANG['twofa']['disabledconfirmation'] = $_ADMINLANG['twofa']['title']." er nu blevet deaktiveret for din konto.";
 $_ADMINLANG['twofa']['backupcodeis'] = "Din Backup Code er";
 $_ADMINLANG['twofa']['backupcodeexpl'] = "Skriv det ned på papir og hold det sikkert. <br /> Det vil være nødvendigt, hvis du nogensinde mister din 2nd faktor, eller den er ikke tilgængelig for dig.";
-$_ADMINLANG['twofa']['disableclickhere'] = "Klik her for at Deaktiver";
-$_ADMINLANG['twofa']['enableclickhere'] = "Klik her for at Aktiver";
+$_ADMINLANG['twofa']['disableclickhere'] = "Klik her for at deaktivere";
+$_ADMINLANG['twofa']['enableclickhere'] = "Klik her for at aktivere";
 
