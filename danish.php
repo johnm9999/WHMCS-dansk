@@ -813,12 +813,12 @@ $_LANG['clientareafilesdate'] = "Dato tilføjet";
 $_LANG['clientareafilesfilename'] = "Filnavn";
 
 $_LANG['pwreset'] = "Gendan din adgangskode";
-$_LANG['pwresetdesc'] = "If you have forgotten your password, you can reset it here. When you fill in your registered email address (and answer your account security question if set), you will be sent instructions on how to reset your password.";
-$_LANG['pwresetemailrequired'] = "You didn't enter your email address";
-$_LANG['pwresetemailnotfound'] = "No client account was found with the email address you entered";
+$_LANG['pwresetdesc'] = "Hvis du har glemt din adgangskode, kan du gendanne den her. Når du har indtastet din email adresse (og svaret på dit sikkerhedsspørgsmål), vil du modtage en email, med instruktioner til hvordan du gendanner din adgangskode";
+$_LANG['pwresetemailrequired'] = "Du indtastede ikke en email adresse";
+$_LANG['pwresetemailnotfound'] = "Der blev ikke fundet nogen konto, tilhørende den email du indtastede";
 $_LANG['pwresetsecurityquestionrequired'] = "As you have a security question setup on your account, you must enter the answer to this question below.";
 $_LANG['pwresetsecurityquestionincorrect'] = "The security question answer you entered does not match the answer set in your account";
-$_LANG['pwresetsubmit'] = "Submit";
+$_LANG['pwresetsubmit'] = "Indsend";
 $_LANG['pwresetvalidationsent'] = "Validation Email Sent";
 $_LANG['pwresetvalidationcheckemail'] = "The password reset process has now been started. Please check your email for instructions on what to do next.";
 $_LANG['pwresetkeyinvalid'] = "The reset link you have followed is invalid. Please try again.";
