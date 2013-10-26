@@ -848,7 +848,7 @@ $_LANG['invoicepaymentfailedconfirmation'] = "Dit forsøg på at betale kunne ik
 
 $_LANG['promoappliedbutnodiscount'] = "Rabatkoden du indtastede er blevet tilføjet til din kurv, men kan ikke bruges sammen med noget af det du i din kurv.";
 
-$_LANG['upgradeerroroverdueinvoice'] = "You cannot currentlyDu kan i øjeblikket ikke opgradere eller nedgradere dette produkt, fordi en faktura allerede er blevet genereret til den næste betaling <br /> <br /> For at fortsætte, skal du først betale den udestående faktura, og så vil du være i stand til at opgradere eller nedgradere umiddelbart efter.";
+$_LANG['upgradeerroroverdueinvoice'] = "Du kan i øjeblikket ikke opgradere eller nedgradere dette produkt, fordi en faktura allerede er blevet genereret til den næste betaling <br /> <br /> For at fortsætte, skal du først betale den udestående faktura, og så vil du være i stand til at opgradere eller nedgradere umiddelbart efter.";
 
 $_LANG['subaccountactivate'] = "Activate Sub-Account";
 $_LANG['subaccountactivatedesc'] = "Tick to configure as a sub-account with client area access";
