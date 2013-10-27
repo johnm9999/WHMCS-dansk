@@ -52,7 +52,7 @@ $_ADMINLANG['global']['pricing'] = "Prising";
 $_ADMINLANG['global']['recurring'] = "Tilbagevendende";
 $_ADMINLANG['global']['edit'] = "Rediger";
 $_ADMINLANG['global']['for'] = "for";
-$_ADMINLANG['global']['goback'] = "Gå Tilbage";
+$_ADMINLANG['global']['goback'] = "Gå tilbage";
 $_ADMINLANG['global']['na'] = "N/A";
 $_ADMINLANG['global']['submit'] = "Indsend";
 $_ADMINLANG['global']['nochange'] = "Ingen ændringer";
@@ -86,7 +86,7 @@ $_ADMINLANG['global']['modulefilemissing'] = "Modul fil mangler";
 $_ADMINLANG['global']['to'] = "til";
 
 # Home
-$_ADMINLANG['home']['title'] = "Home";
+$_ADMINLANG['home']['title'] = "Hjem";
 $_ADMINLANG['home']['quicksummary'] = "Quick Summary";
 $_ADMINLANG['home']['maintenancemode'] = "Maintenance Mode is On. Remember to switch it off when finished in <a href=\"configgeneral.php\">General Settings</a>";
 $_ADMINLANG['home']['recentclientactivity'] = "Recent Client Activity";
