@@ -10,7 +10,7 @@ To-do i danish.php
  - Oversætte Password til adgangskode
  - Oversætte Addon til tilføjelse
  - Rette store bogstaver, eksempel:
- ```php
+ ```
 $_LANG['quotevaliduntil'] = "Gyldig Indtil";
 ```
 
