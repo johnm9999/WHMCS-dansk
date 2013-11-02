@@ -1035,7 +1035,7 @@ $_LANG['cartdomainsconfiginfo'] = "De følgende muligheder og indstillinger er t
 $_LANG['cartnameserverchoice'] = "Navneserver Valg";
 $_LANG['cartnameserverchoicedefault'] = "Brug standard navneservere for vores hosting";
 $_LANG['cartnameserverchoicecustom'] = "Brug brugerdefinerede navneservere";
-$_LANG['cartfollowingaddonsavailable'] = "De følgende addons er tilgængelige for dine aktive produkter &amp; services.";
+$_LANG['cartfollowingaddonsavailable'] = "De følgende tilføjelser er tilgængelige for dine aktive produkter &amp; services.";
 $_LANG['cartregisterdomainchoice'] = "Registrer et nyt domæne";
 $_LANG['carttransferdomainchoice'] = "Overfør dit domæne fra en anden registrator";
 $_LANG['cartexistingdomainchoice'] = "Jeg vil bruge mit eksisterende domæne og opdatere mine navneservere";
@@ -1187,7 +1187,7 @@ $_LANG['accountoverview'] = "Kontooversigt";
 $_LANG['paymentmethod'] = "Betalingsmetode";
 $_LANG['paymentmethoddefault'] = "Brug standard (sæt pr ordre)";
 $_LANG['productmanagementactions'] = "Administrative handlinger";
-$_LANG['clientareanoaddons'] = "Der er endnu ikke købt nogle addons";
+$_LANG['clientareanoaddons'] = "Der er endnu ikke købt nogle tilføjelser";
 $_LANG['downloadssearch'] = "Søg i downloads";
 $_LANG['emailviewmessage'] = "Vis besked";
 $_LANG['resultsperpage'] = "Resultater per side";
@@ -1198,7 +1198,7 @@ $_LANG['clientareabacklink'] = "&laquo; Tilbage";
 $_LANG['backtoserviceslist'] = "&laquo; Tilbage til services";
 $_LANG['backtodomainslist'] = "&laquo; Tilbage til domæner";
 
-$_LANG['clientareahomeorder'] = "Gå til ordreformularen, hvor du kan se de produkter og services vi tilbyder. Eksisterende kunder kan også købe ekstraudstyr og addons her";
+$_LANG['clientareahomeorder'] = "Gå til ordreformularen, hvor du kan se de produkter og services vi tilbyder. Eksisterende kunder kan også købe ekstraudstyr og tilføjelser her";
 $_LANG['clientareahomelogin'] = "Er du allerede registreret hos os? Hvis dette er tilfældet, skal du klikke på knappen nedenfor for at logge ind på vores kundecenter, hvorfra du kan administrere din konto.";
 $_LANG['clientareahomeorderbtn'] = "Gå til ordreformularen";
 $_LANG['clientareahomeloginbtn'] = "Sikker kundelogin";
@@ -1356,22 +1356,22 @@ $_LANG['licensingreissued'] = "Det gyldige Domæne, IP og Mappe vil blive fundet
 
 # Domain Addons
 
-$_LANG['domainaddons'] = "Addons";
-$_LANG['domainaddonsinfo'] = "De følgende addons er tilgængelige for dit domæne(r)...";
-$_LANG['domainaddonsdnsmanagement'] = "DNS Værts Post Opslag";
-$_LANG['domainaddonsidprotectioninfo'] = "Beskyt dine personlige informationer og reducer mængden af spam i din indbakke ved at aktivere ID Beskyttelse.";
-$_LANG['domainaddonsdnsmanagementinfo'] = "Ekstern DNS Hosting kan hjælpe med at øge hastigheden på din hjemmeside og øge tilgængelighed med reduceret redundans.";
-$_LANG['domainaddonsemailforwardinginfo'] = "Få E-mails vidersendt til alternative E-mail adresser, som du vælger, så du kan overvåge alt fra en enkelt konto.";
+$_LANG['domainaddons'] = "Tilføjelser";
+$_LANG['domainaddonsinfo'] = "De følgende tilføjelser er tilgængelige for dit domæne(r)...";
+$_LANG['domainaddonsdnsmanagement'] = "DNS værts post opslag";
+$_LANG['domainaddonsidprotectioninfo'] = "Beskyt dine personlige informationer og reducer mængden af spam i din indbakke ved at aktivere ID beskyttelse.";
+$_LANG['domainaddonsdnsmanagementinfo'] = "Ekstern DNS hosting kan hjælpe med at øge hastigheden på din hjemmeside og øge tilgængelighed med reduceret redundans.";
+$_LANG['domainaddonsemailforwardinginfo'] = "Få e-mails vidersendt til alternative E-mail adresser, som du vælger, så du kan overvåge alt fra en enkelt konto.";
 $_LANG['domainaddonsbuynow'] = "Køb nu for";
 $_LANG['domainaddonsperyear'] = "/År";
 $_LANG['domainaddonscancelareyousure'] = "Er du sikker på, at du ønsker at deaktivere &amp; annullere denne domæne addon?";
 $_LANG['domainaddonsconfirm'] = "Bekræft annullering";
-$_LANG['domainaddonscancelsuccess'] = "Addon deaktiveret!";
-$_LANG['domainaddonscancelfailed'] = "Deaktivering af addon mislykkedes. Kontakt venligst support.";
+$_LANG['domainaddonscancelsuccess'] = "Tilføjelse deaktiveret!";
+$_LANG['domainaddonscancelfailed'] = "Deaktivering af tilføjelse mislykkedes. Kontakt venligst support.";
 
 # Version 5.2
 
-$_LANG['yourclientareahostingaddons'] = "Du har de følgende addons til dette produkt.";
+$_LANG['yourclientareahostingaddons'] = "Du har de følgende tilføjelser til dette produkt.";
 $_LANG['loginrequired'] = "Login påkrævet";
 $_LANG['unsubscribe'] = "Afmeld";
 $_LANG['emailoptout'] = "Frabed nyhedsbrev";
