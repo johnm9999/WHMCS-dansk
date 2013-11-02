@@ -462,7 +462,7 @@ $_LANG['latestannouncements'] = "Seneste nyheder";
 $_LANG['loginbutton'] = "Login";
 $_LANG['loginemail'] = "E-mail adresse";
 $_LANG['loginforgotten'] = "Glemt din adgangskode?";
-$_LANG['loginforgotteninstructions'] = "Har du glemt din adgangskode, kan du klikke her for at få tilsendt et nyt";
+$_LANG['loginforgotteninstructions'] = "Har du glemt din adgangskode, kan du klikke her for at få tilsendt en ny";
 $_LANG['loginincorrect'] = "Login fejl. Prøv venligst igen.";
 $_LANG['loginintrotext'] = "Du skal være logget ind for at se denne side.";
 $_LANG['loginpassword'] = "Adgangskode";
@@ -1198,7 +1198,7 @@ $_LANG['clientareabacklink'] = "&laquo; Tilbage";
 $_LANG['backtoserviceslist'] = "&laquo; Tilbage til services";
 $_LANG['backtodomainslist'] = "&laquo; Tilbage til domæner";
 
-$_LANG['clientareahomeorder'] = "Gå til ordreformularen, hvor du kan se de produkter og services vi tilbyder. Eksisterende kunder kan også købe ekstraudstyr og tilføjelser her";
+$_LANG['clientareahomeorder'] = "Gå til ordreformularen, hvor du kan se de produkter og services vi tilbyder. Eksisterende kunder kan også købe ekstraudstyr og tilføjelser her.";
 $_LANG['clientareahomelogin'] = "Er du allerede registreret hos os? Hvis dette er tilfældet, skal du klikke på knappen nedenfor for at logge ind på vores kundecenter, hvorfra du kan administrere din konto.";
 $_LANG['clientareahomeorderbtn'] = "Gå til ordreformularen";
 $_LANG['clientareahomeloginbtn'] = "Sikker kundelogin";
@@ -1273,7 +1273,7 @@ $_LANG['domaincheckeravailtransfer'] = "Available for Transfer";
 $_LANG['domaincheckerenterdomain'] = "Start din web hosting oplevelse med os ved at skrive det domænenavn, du ønsker at registrere eller overføre (redelegere) eller blot køb hosting til nedenfor...";
 $_LANG['domaincheckerbulkinvaliddomain'] = "Et eller flere af de domæner, du har skrevet ovenfor var ugyldigt, og er blevet udeladt fra resultaterne";
 
-$_LANG['kbquestionsearchere'] = "Har du et spørgsmål? Start din søgning her.";
+$_LANG['kbquestionsearchere'] = "Har du et spørgsmål? Start din søgning her&hellip;";
 $_LANG['contactus'] = "Kontakt os";
 
 $_LANG['opennewticket'] = "Opret en ny sag";
