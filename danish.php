@@ -377,7 +377,7 @@ $_LANG['firstpaymentamount'] = "At betale idag";
 $_LANG['flashtutorials'] = "Flash Tutorials";
 $_LANG['flashtutorialsdescription'] = "Klik her for at se tutorials om hvordan du bruger dit hosting kontrolpanel";
 $_LANG['flashtutorialsheadertext'] = "Vores flash tutorials er her for at hjælpe dig bruge dit webhosting kontrolpanel. Vælg tutorial nedenfor, for at se trin for trin guide.";
-$_LANG['forwardingtogateway'] = "Vent venligst mens du bliver ført videre til vores betalingsside...";
+$_LANG['forwardingtogateway'] = "Vent venligst mens du bliver ført videre til vores betalingsside&hellip;";
 $_LANG['globalsystemname'] = "Support";
 $_LANG['globalyouarehere'] = "Du er her";
 $_LANG['go'] = "Udfør";
@@ -581,7 +581,7 @@ $_LANG['orderlogininfopart2'] = "kundeside. Dette vil ikke være det samme som b
 $_LANG['ordernewuser'] = "Jeg er ny kunde og ønsker at oprette en konto";
 $_LANG['ordernoproducts'] = "Ingen produkter fundet";
 $_LANG['ordernotes'] = "Bemærkninger / yderligere information";
-$_LANG['ordernotesdescription'] = "Du kan indtaste yderligere informationer til din bestilling her...";
+$_LANG['ordernotesdescription'] = "Du kan indtaste yderligere informationer til din bestilling her&hellip;";
 $_LANG['ordernowbutton'] = "Bestil nu";
 $_LANG['ordernumberis'] = "Dit ordrenummer er:";
 $_LANG['orderpaymentmethod'] = "Betalingsmetode";
@@ -642,7 +642,7 @@ $_LANG['outofstockdescription'] = "Vi har desværre ikke dette produkt på lager
 $_LANG['page'] = "Side";
 $_LANG['pageof'] = "af";
 $_LANG['please'] = "Venligst";
-$_LANG['pleasewait'] = "Vent venligst...";
+$_LANG['pleasewait'] = "Vent venligst&hellip;";
 $_LANG['presalescontactdescription'] = "Har du spørgsmål før du bestiller kan du stille dem her";
 $_LANG['previouspage'] = "Forrige side";
 $_LANG['proformainvoicenumber'] = "Proforma faktura #";
@@ -692,7 +692,7 @@ $_LANG['ssladmininfodetails'] = "Kontaktinformationen nedenfor vil ikke blive vi
 $_LANG['sslcertapproveremail'] = "Certifikat validerings e-mail";
 $_LANG['sslcertapproveremaildetails'] = "Du skal vælge nedenfor hvilken e-mail adresse du ønsker validerings e-mailen til dette certifikat sendt til.";
 $_LANG['sslcertinfo'] = "SSL certifikat information";
-$_LANG['pleasechooseone'] = "Vælg venligst en...";
+$_LANG['pleasechooseone'] = "Vælg venligst en&hellip;";
 $_LANG['sslcerttype'] = "Certifikat type";
 $_LANG['sslconfigcomplete'] = "Konfiguration fuldført";
 $_LANG['sslconfigcompletedetails'] = "SSL certifikat konfigurationen er nu fuldført og sendt til certifikat udbyderen til validation. Du vil modtage en e-mail fra dem snarest muligt.";
@@ -767,7 +767,7 @@ $_LANG['telesigninvalidnumber'] = "Ugyldigt telefonnummer";
 $_LANG['telesigninvalidpin'] = "Den indtastede PIN er ugyldig!";
 $_LANG['telesigninvalidpin2'] = "Den indtastede pin er ikke gyldig.";
 $_LANG['telesigninvalidpinmessage'] = "Pinkode validering fejlede";
-$_LANG['telesignmessage'] = "Telefon validering er nu startet på telefonnummer %s . Vent et øjeblik...";
+$_LANG['telesignmessage'] = "Telefon validering er nu startet på telefonnummer %s . Vent et øjeblik&hellip;";
 $_LANG['telesignphonecall'] = "Telefonopkald";
 $_LANG['telesignpin'] = "Indtast din pin: ";
 $_LANG['telesignsms'] = "Sms";
@@ -941,9 +941,9 @@ $_LANG['domainreleasetag'] = "Nyt registrator tag";
 $_LANG['orderformtitle'] = "Ordre formular";
 
 $_LANG['signup'] = "Registrer";
-$_LANG['loading'] = "Indlæser...";
+$_LANG['loading'] = "Indlæser&hellip;";
 
-$_LANG['ordersummarybegin'] = "Bestillingskurv er tom<br/>Vælg venligst et produkt for at begynde...";
+$_LANG['ordersummarybegin'] = "Bestillingskurv er tom<br/>Vælg venligst et produkt for at begynde&hellip;";
 
 $_LANG['cartchooseproduct'] = "Vælg produkt";
 $_LANG['cartconfigurationoptions'] = "Konfigurationsmuligheder";
@@ -967,7 +967,7 @@ $_LANG['cartdomainavailableoptions'] = "Tillykke, domænet er ledigt!";
 $_LANG['cartdomainavailableregister'] = "Registrer venligst dette domæne for";
 $_LANG['cartdomainavailablemanual'] = "Jeg ønsker selv at registrere mit domæne";
 
-$_LANG['cartdomainunavailableoptions'] = "Beklager, dette domæne er allerede taget. Hvis du ejer det, så vælg en mulighed nedenfor...";
+$_LANG['cartdomainunavailableoptions'] = "Beklager, dette domæne er allerede taget. Hvis du ejer det, så vælg en mulighed nedenfor&hellip;";
 $_LANG['cartdomainunavailabletransfer'] = "Overfør mit domæne for";
 $_LANG['cartdomainunavailablemanual'] = "Jeg ejer allerede dette domæne og vil opdatere navneserverne";
 
@@ -1030,7 +1030,7 @@ $_LANG['cartregisterhowlong'] = "Hvor længe ønsker du at registrere dette for?
 $_LANG['cartdomaintaken'] = "Beklager, %s er optaget";
 $_LANG['carttransfernotregistered'] = "%s ser ikke ud til at være registreret endnu";
 $_LANG['carttransferpossible'] = "Tillykke, vi kan overføre %s til os for kun %s";
-$_LANG['cartotherdomainsuggestions'] = "Andre domæner du måske er interesseret i...";
+$_LANG['cartotherdomainsuggestions'] = "Andre domæner du måske er interesseret i&hellip;";
 $_LANG['cartdomainsconfiginfo'] = "De følgende muligheder og indstillinger er tilgængelige for de domæner, du har valgt. Påkrævede felter er market med en *.";
 $_LANG['cartnameserverchoice'] = "Navneserver Valg";
 $_LANG['cartnameserverchoicedefault'] = "Brug standard navneservere for vores hosting";
@@ -1056,7 +1056,7 @@ $_LANG['cartfraudcheck'] = "Svindel kontrol";
 
 $_LANG['newcustomer'] = "Ny kunde";
 $_LANG['existingcustomer'] = "Eksisterende kunde";
-$_LANG['newcustomersignup'] = "Ikke oprettet endnu? %sKlik her for at oprette...%s";
+$_LANG['newcustomersignup'] = "Ikke oprettet endnu? %sKlik her for at oprette&hellip;%s";
 
 $_LANG['upgradeonselectedoptions'] = "(På valgte muligheder)";
 $_LANG['recurringpromodesc'] = "Denne rabatkode inkluderer også en %s Løbende Rabat<br />(Denne rabat gælder også fremtidige fornyelser af dette produkts totale pris)";
@@ -1064,8 +1064,8 @@ $_LANG['recurringpromodesc'] = "Denne rabatkode inkluderer også en %s Løbende 
 # Version 4.5.2
 
 $_LANG['ajaxcartcheckout'] = "Gå direkte til betaling &raquo;";
-$_LANG['ordersummarybegin'] = "Bestillingskurven er tom<br/>Vælg venligst et produkt for at begynde...";
-$_LANG['ajaxcartconfigreqnotice'] = "Du er på vej til at oprette dig hos os, men du skal vælge et domæne før du kan tilføje de valgte produkter til din kurv...";
+$_LANG['ordersummarybegin'] = "Bestillingskurven er tom<br/>Vælg venligst et produkt for at begynde&hellip;";
+$_LANG['ajaxcartconfigreqnotice'] = "Du er på vej til at oprette dig hos os, men du skal vælge et domæne før du kan tilføje de valgte produkter til din kurv&hellip;";
 
 # Version 5.0.0
 
@@ -1078,7 +1078,7 @@ $_LANG['startingfrom'] = "Start fra";
 $_LANG['orderpromopriceoverride'] = "Pris overstyring";
 $_LANG['orderpromofreesetup'] = "Gratis opsætning";
 
-$_LANG['thereisaproblem'] = "Ups, der er et problem ...";
+$_LANG['thereisaproblem'] = "Ups, der er et problem&hellip;";
 $_LANG['problemgoback'] = "Gå tilbage og prøv igen";
 
 $_LANG['quantity'] = "Antal";
@@ -1209,11 +1209,11 @@ $_LANG['clientareadomainsintro'] = "Dette er alle de domæner du har registreret
 $_LANG['invoicesintro'] = "Herunder kan du se alle de fakturaer du har modtaget fra os.";
 $_LANG['quotesintro'] = "Her er alle de tilbud du har modtaget fra os.";
 $_LANG['emailstagline'] = "Her er en kopi af de seneste e-mails vi har sendt dig.";
-$_LANG['supportticketsintro'] = "Send og spor alle henvendelser til os her...";
+$_LANG['supportticketsintro'] = "Send og spor alle henvendelser til os her&hellip;";
 $_LANG['addfundsintro'] = "Tank din konto op";
 $_LANG['registerintro'] = "Opret en konto hos os. . .";
 $_LANG['masspayintro'] = "Betal alle de fakturaer, der er anført nedenfor i en enkelt transaktion ved at vælge en betalingsmetode";
-$_LANG['domaincheckerintro'] = "Start din søgning efter web hosting, her ved at kontrollere om dit domæne er ledigt...";
+$_LANG['domaincheckerintro'] = "Start din søgning efter web hosting, her ved at kontrollere om dit domæne er ledigt&hellip;";
 $_LANG['networkstatusintro'] = "Services og drift information samt netværks meddelelser";
 
 $_LANG['creditcardyourinfo'] = "Faktureringsoplysninger";
@@ -1264,13 +1264,13 @@ $_LANG['addfundsnonrefundable'] = "* Alle indskud refunderes ikke.";
 
 $_LANG['creditcardexpirydateinvalid'] = "Udløbsdatoen skal skrives i formatet MM/ÅÅ og må ikke være af ældre dato end i dag";
 
-$_LANG['domaincheckerchoosedomain'] = "Vælg et domænenavn...";
+$_LANG['domaincheckerchoosedomain'] = "Vælg et domænenavn&hellip;";
 $_LANG['domaincheckerchecknewdomain'] = "Se om domænet er tilgængeligt";
 $_LANG['domaincheckerdomainexample'] = " f.eks. ditdomæne.dk";
 $_LANG['domaincheckerinvalidtld'] = "er ikke et gyldigt TLD, prøv venligst igen.";
 $_LANG['domaincheckerhostingonly'] = "Bestil kun hosting";
 $_LANG['domaincheckeravailtransfer'] = "Available for Transfer";
-$_LANG['domaincheckerenterdomain'] = "Start din web hosting oplevelse med os ved at skrive det domænenavn, du ønsker at registrere eller overføre (redelegere) eller blot køb hosting til nedenfor...";
+$_LANG['domaincheckerenterdomain'] = "Start din web hosting oplevelse med os ved at skrive det domænenavn, du ønsker at registrere eller overføre (redelegere) eller blot køb hosting til nedenfor&hellip;";
 $_LANG['domaincheckerbulkinvaliddomain'] = "Et eller flere af de domæner, du har skrevet ovenfor var ugyldigt, og er blevet udeladt fra resultaterne";
 
 $_LANG['kbquestionsearchere'] = "Har du et spørgsmål? Start din søgning her&hellip;";
@@ -1291,7 +1291,7 @@ $_LANG['jobtitlereqforcompany'] = "(Påkrævet, hvis firmanavn er angivet)";
 $_LANG['downloadproductrequired'] = "For at hente dette element kræves det, at du har et af følgende produkt/service som er aktivt:";
 
 $_LANG['affiliatesignuptitle'] = "Bliv betalt for at henvise kunder til os";
-$_LANG['affiliatesignupintro'] = "Aktiver din partner konto og begynd at tjene penge idag...";
+$_LANG['affiliatesignupintro'] = "Aktiver din partner konto og begynd at tjene penge idag&hellip;";
 $_LANG['affiliatesignupinfo1'] = "Vi betaler provision for hver registrering der kommer via dit eget link.";
 $_LANG['affiliatesignupinfo2'] = "Vi husker de gæster, du henviser til os ved hjælp af cookies, så brugere du henviser behøver ikke handle ved første besøg for at du modtager provision. Cookies varer op til 90 dage efter det første besøg via dit link.";
 $_LANG['affiliatesignupinfo3'] = "Vil du vide mere, så kontakt os.";
@@ -1357,7 +1357,7 @@ $_LANG['licensingreissued'] = "Det gyldige Domæne, IP og Mappe vil blive fundet
 # Domain Addons
 
 $_LANG['domainaddons'] = "Tilføjelser";
-$_LANG['domainaddonsinfo'] = "De følgende tilføjelser er tilgængelige for dit domæne(r)...";
+$_LANG['domainaddonsinfo'] = "De følgende tilføjelser er tilgængelige for dit domæne(r)&hellip;";
 $_LANG['domainaddonsdnsmanagement'] = "DNS værts post opslag";
 $_LANG['domainaddonsidprotectioninfo'] = "Beskyt dine personlige informationer og reducer mængden af spam i din indbakke ved at aktivere ID beskyttelse.";
 $_LANG['domainaddonsdnsmanagementinfo'] = "Ekstern DNS hosting kan hjælpe med at øge hastigheden på din hjemmeside og øge tilgængelighed med reduceret redundans.";
@@ -1383,7 +1383,7 @@ $_LANG['unsubscribehashinvalid'] = "Afmelding mislykkedes, kontakt venligst supp
 $_LANG['unsubscribesuccess'] = "Afmelding lykkedes";
 $_LANG['newsletterremoved'] = "Mange tak, din E-mail adresse er nu blevet fjernet fra vores mailing liste.";
 $_LANG['erroroccured'] = "Der opstod en fejl";
-$_LANG['pwresetsuccessdesc'] = "Din adgangskode er nu blevet nulstillet. %sKlik her%s for at fortsætte til kundecenteret...";
+$_LANG['pwresetsuccessdesc'] = "Din adgangskode er nu blevet nulstillet. %sKlik her%s for at fortsætte til kundecenteret&hellip;";
 $_LANG['pwresetenternewpw'] = "Indtast venligst din ønskede adgangskode nedenfor.";
 $_LANG['ordererrorsbudomainbanned'] = "Subdomæne præfiks du indtastede er ikke tilladt - prøv venligst et andet";
 
