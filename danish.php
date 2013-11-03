@@ -1229,7 +1229,7 @@ $_LANG['invoicesnoneunpaid'] = "Der er i øjeblikket ingen ubetalte fakturaer";
 
 $_LANG['registerdisablednotice'] = "For at registrere skal du afgive en <strong><a href=\"cart.php\">ordre</a></strong>";
 
-$_LANG['pwstrength'] = "adgangskodens styrke";
+$_LANG['pwstrength'] = "Adgangskodens styrke";
 $_LANG['pwstrengthenter'] = "Indtast en adgangskode";
 $_LANG['pwstrengthweak'] = "Svag";
 $_LANG['pwstrengthmoderate'] = "Moderat";
