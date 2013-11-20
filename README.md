@@ -7,16 +7,7 @@ Hele Admin delen er aldrig oversat.
 
 
 To-do i danish.php
- - Oversætte Password til adgangskode
- - Oversætte Addon til tilføjelse
- - Rette store bogstaver. Eksempelvis skal
- ```
-$_LANG['quotevaliduntil'] = "Gyldig Indtil";
-```
-rettes til 
-```
-$_LANG['quotevaliduntil'] = "Gyldig indtil";
-```
+ - Tilføje og oversætte fremtidige opdateringer.
 
 To-do i danish-admin.php
  - Oversætte det manglende
