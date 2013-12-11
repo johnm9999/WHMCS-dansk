@@ -87,16 +87,16 @@ $_ADMINLANG['global']['to'] = "til";
 
 # Home
 $_ADMINLANG['home']['title'] = "Hjem";
-$_ADMINLANG['home']['quicksummary'] = "Quick Summary";
-$_ADMINLANG['home']['maintenancemode'] = "Maintenance Mode is On. Remember to switch it off when finished in <a href=\"configgeneral.php\">General Settings</a>";
-$_ADMINLANG['home']['recentclientactivity'] = "Recent Client Activity";
-$_ADMINLANG['home']['recentadminactivity'] = "Recent Admin Activity";
-$_ADMINLANG['home']['recentactivity'] = "Recent Activity";
-$_ADMINLANG['home']['networkstatus'] = "Network Status";
-$_ADMINLANG['home']['load'] = "Load";
-$_ADMINLANG['home']['uptime'] = "Uptime";
-$_ADMINLANG['home']['percentuse'] = "% Used";
-$_ADMINLANG['home']['checknow'] = "Check Now";
+$_ADMINLANG['home']['quicksummary'] = "Hurtig oversigt";
+$_ADMINLANG['home']['maintenancemode'] = "Vedligeholeldses tilstand er slået til. Husk at slå det fra, dette kan gøre under <a href=\"configgeneral.php\">gennerelle indstillinger</a>";
+$_ADMINLANG['home']['recentclientactivity'] = "Seneste kunde aktivitet";
+$_ADMINLANG['home']['recentadminactivity'] = "Seneste adminstrator aktivitet";
+$_ADMINLANG['home']['recentactivity'] = "Senetse aktivitet";
+$_ADMINLANG['home']['networkstatus'] = "Netværksstatus";
+$_ADMINLANG['home']['load'] = "Indlæs";
+$_ADMINLANG['home']['uptime'] = "Oppetid";
+$_ADMINLANG['home']['percentuse'] = "% brugt";
+$_ADMINLANG['home']['checknow'] = "Tjek nu";
 $_ADMINLANG['home']['5oldest'] = "Showing 5 Oldest...";
 $_ADMINLANG['home']['viewall'] = "View All";
 $_ADMINLANG['home']['manage'] = "Manage";
