@@ -1,13 +1,8 @@
 WHMCS-dansk
 ===========
+![Logo](http://krebsonsecurity.com/wp-content/uploads/2012/05/whmcs.png)
+===========
+Brug Snakehostings version af dette repository
+Use Snakehostings version of this repository
 
-Hjælp med at få oversat WHMCS til dansk.
-Den originale oversættelse stoppede for mange versioner siden.
-Hele Admin delen er aldrig oversat.
-
-
-To-do i danish.php
- - Tilføje og oversætte fremtidige opdateringer.
-
-To-do i danish-admin.php
- - Oversætte det manglende
+https://github.com/Snakehosting/WHMCS-dansk
