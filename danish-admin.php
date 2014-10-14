@@ -2842,7 +2842,7 @@ $_ADMINLANG['orderstatusconfig']['includeincancelled'] = "Include in Cancelled";
 
 # Config Server
 $_ADMINLANG['configservers']['secure'] = "Sikker";
-$_ADMINLANG['configservers']['accesshash'] = "Adgang Hash";
+$_ADMINLANG['configservers']['accesshash'] = "Adgangs Hash";
 $_ADMINLANG['configservers']['usessl'] = "Afkryds for at bruge SSL-tilstand for forbindelser";
 $_ADMINLANG['configservers']['groups'] = "Grupper";
 $_ADMINLANG['configservers']['groupsdesc'] = "Server grupper giver dig mulighed for at konfigurere sæt af servere til at tildele produkter til og få nye ordrer rotere rundt servere inden for den pågældende gruppe eller fylde indtil fuld.";
