@@ -2895,7 +2895,7 @@ $_ADMINLANG['configservers']['disabled'] = "Disabled Server";
 $_ADMINLANG['configservers']['disableddesc'] = "The selected server was successfully disabled";
 $_ADMINLANG['configservers']['defaultchange'] = "Default Server Changed!";
 $_ADMINLANG['configservers']['defaultchangedesc'] = "The default server has now been set to the selected server";
-$_ADMINLANG['configservers']['defaultsignups'] = "Make this server the active default for new signups";
+$_ADMINLANG['configservers']['defaultsignups'] = "Gør denne server den aktive standard for nye tilmeldinger";
 
 # 2FA Security
 $_ADMINLANG['twofa']['title'] = "To-faktor Godkendelse";
