@@ -2920,7 +2920,7 @@ $_ADMINLANG['twofa']['enableclickhere'] = "Klik her for at aktivere";
 $_ADMINLANG['emailmarketer']['delete'] = "Are you sure you want to delete this mailing entry?";
 
 # Link Tracking
-$_ADMINLANG['linktracking']['delete'] = "Are you sure you want to delete this link?";
+$_ADMINLANG['linktracking']['delete'] = "Er du sikker på du vil slettet linket?";
 
-$_ADMINLANG['email']['sentSuccessfully'] = "The email was sent successfully.";
-$_ADMINLANG['email']['emailAborted'] = "Email sending aborted.";
+$_ADMINLANG['email']['sentSuccessfully'] = "Email's sendt uden problemer.";
+$_ADMINLANG['email']['emailAborted'] = "Email afsendelse afbrudt.";
