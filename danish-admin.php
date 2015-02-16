@@ -2840,9 +2840,25 @@ $_ADMINLANG['orderstatusconfig']['includeinpending'] = "Medtag i Afventer";
 $_ADMINLANG['orderstatusconfig']['includeinactive'] = "Medtag i Aktive";
 $_ADMINLANG['orderstatusconfig']['includeincancelled'] = "Medtag i Aflyste";
 
+# Config Order Statuses
+$_ADMINLANG['orderstatusconfig']['pagedesc'] = "Her kan du definere ordrestatusser du ønsker at bruge. De 4 standard statusser Afventer, Aktiv, svig og Annulleret kan ikke slettes eller omdøbes.";
+$_ADMINLANG['orderstatusconfig']['addnew'] = "Tilføj ny Ordrestatus";
+$_ADMINLANG['orderstatusconfig']['edit'] = "Rediger Ordrestatus";
+$_ADMINLANG['orderstatusconfig']['addtitle'] = "Status succesfuldt tilføjet";
+$_ADMINLANG['orderstatusconfig']['adddesc'] = "Den nye ordrestatus er nu blevet tilføjet";
+$_ADMINLANG['orderstatusconfig']['edittitle'] = "Status opdateret";
+$_ADMINLANG['orderstatusconfig']['editdesc'] = "Ordrestatus er blevet opdateret";
+$_ADMINLANG['orderstatusconfig']['deltitle'] = "Status slettet";
+$_ADMINLANG['orderstatusconfig']['deldesc'] = "Ordrestatus er nu fjernet, og alle Support sager der bruger det skiftede til Annulleret";
+$_ADMINLANG['orderstatusconfig']['delsure'] = "Er du sikker på at du vil slette denne ordrestatus? Dermed vil det ændre alle ordrer tildelt denne status til Annulleret.";
+$_ADMINLANG['orderstatusconfig']['color'] = "Status Farve";
+$_ADMINLANG['orderstatusconfig']['includeinpending'] = "Medtag i Afventer";
+$_ADMINLANG['orderstatusconfig']['includeinactive'] = "Medtag i Aktive";
+$_ADMINLANG['orderstatusconfig']['includeincancelled'] = "Medtag i Aflyste";
+
 # Config Server
 $_ADMINLANG['configservers']['secure'] = "Sikker";
-$_ADMINLANG['configservers']['accesshash'] = "Adgangs Hash";
+$_ADMINLANG['configservers']['accesshash'] = "Adgang Hash";
 $_ADMINLANG['configservers']['usessl'] = "Afkryds for at bruge SSL-tilstand for forbindelser";
 $_ADMINLANG['configservers']['groups'] = "Grupper";
 $_ADMINLANG['configservers']['groupsdesc'] = "Server grupper giver dig mulighed for at konfigurere sæt af servere til at tildele produkter til og få nye ordrer rotere rundt servere inden for den pågældende gruppe eller fylde indtil fuld.";
@@ -2896,7 +2912,6 @@ $_ADMINLANG['configservers']['disableddesc'] = "Den valgte server lykkedes deakt
 $_ADMINLANG['configservers']['defaultchange'] = "Standard-server ændret!";
 $_ADMINLANG['configservers']['defaultchangedesc'] = "Standardserveren er nu indstillet til den valgte server";
 $_ADMINLANG['configservers']['defaultsignups'] = "Gør denne server den aktive standard for nye tilmeldinger";
-
 # 2FA Security
 $_ADMINLANG['twofa']['title'] = "To-faktor Godkendelse";
 $_ADMINLANG['twofa']['introtext'] = "To-faktor godkendelse tilføjer et ekstra lag af beskyttelse til logins. Når det er aktiveret &amp; konfigureret til en bruger med administratorrettigheder (hver bruger skal aktiver det selvstændigt), Hver gang de logger ind vil blive bedt om at indtaste både deres brugernavn og password samt en anden faktor, såsom en sikkerhedskode. Vi støtter en bred vifte af to-faktor godkendelses metoder.";
@@ -2915,9 +2930,8 @@ $_ADMINLANG['twofa']['backupcodeis'] = "Din Backup Code er";
 $_ADMINLANG['twofa']['backupcodeexpl'] = "Skriv det ned på papir og hold det sikkert. <br /> Det vil være nødvendigt, hvis du nogensinde mister din 2nd faktor, eller den er ikke tilgængelig for dig.";
 $_ADMINLANG['twofa']['disableclickhere'] = "Klik her for at deaktivere";
 $_ADMINLANG['twofa']['enableclickhere'] = "Klik her for at aktivere";
-
 # Email Marketer
-$_ADMINLANG['emailmarketer']['delete'] = "Are you sure you want to delete this mailing entry?";
+$_ADMINLANG['emailmarketer']['delete'] = "Er du sikker på du vil slette mail data ?";
 
 # Link Tracking
 $_ADMINLANG['linktracking']['delete'] = "Er du sikker på du vil slettet linket?";
